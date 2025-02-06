@@ -1,7 +1,15 @@
 <!-- GitHub Profile -->
 
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
+<h1 align="center">Hi 👋, I'm a Talented Dev</h1>
+<h3 align="center">A Senior Full Stack Developer</h3>
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=simba0102&label=Profile%20views&color=0e75b6&style=flat"
+    alt="simba0102"
+  />
+</p>
 
 
 </br>
