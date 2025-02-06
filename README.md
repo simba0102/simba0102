@@ -1,8 +1,10 @@
 <!-- GitHub Profile -->
 
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
-<h1 align="center">Hi 👋, I'm a Talented Dev</h1>
-<h3 align="center">A Senior Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm a Web and Mobile Dev</h1>
+<p>
+  <h3> Experienced Senior Full Stack Engineer with a successful history of delivering scalable solutions and achieving tangible business results. Skilled in a wide range of technologies including React.js, Vue.js, Angular, Node.js, C#, .NET, Golang, and TypeScript. </h3>
+</p>
 
 <p align="left">
   <img
