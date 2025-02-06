@@ -2,7 +2,6 @@
 
 <!-- [![BenjaminGrayDev Nuxter profile](https://nuxters.nuxt.com/card/BenjaminGrayDev/og.png)](https://nuxters.nuxt.com/BenjaminGrayDev) -->
 
-![Header](./HealerProfileHeader.png)
 
 
 </br>
@@ -13,13 +12,13 @@ ________________________________________________________
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=matthiaskrgr&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=simba0102&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=matthiaskrgr&theme=flat&margin-w=18&margin-h=18&column=6&border_radius=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=simba0102&theme=flat&margin-w=18&margin-h=18&column=6&border_radius=15" />
 </p>
 
 
@@ -115,19 +114,15 @@ ________________________________________________________
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 
 <p align="center">
-  <a href="mailto:gonggong624721@gmail.com">
+  <a href="mailto:alexbenny544@gmail.com">
     <img src="https://img.icons8.com/color/52/000000/email.png" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.gg/DtqthxBa">
+  <a href="https://discord.gg/kQHk2BCk">
     <img src="https://img.icons8.com/color/52/000000/discord--v1.png" width="40" height="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/HealerDevOps">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="40" height="40">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/cid.91cfa8150ee0720">
+  <a href="https://join.skype.com/invite/FqDKKmmkgB1h">
     <img src="https://img.icons8.com/color/52/000000/skype.png" width="40" height="40">
   </a>
 </p>
