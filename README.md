@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <h3> Experienced Senior Full Stack Engineer with a successful history of delivering scalable solutions and achieving tangible business results. Skilled in a wide range of technologies including React.js, Vue.js, Angular, Node.js, C#, .NET, Golang, and TypeScript. </h3>
+  <h3> Experienced Senior Full Stack Web and Mobile Developer with a successful history of delivering scalable solutions and achieving tangible business results. Skilled in a wide range of technologies including React.js, Vue.js, Angular, Node.js, C#, .NET, Golang, and TypeScript. </h3>
 </p>
 
 <p align="left">
