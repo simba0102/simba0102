@@ -23,22 +23,21 @@
 ---
 
 <div>
-  <p>
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=simba0102&show_icons=true&locale=en&layout=compact"
-      alt="simba0102"
-    />
-  </p>
-
 <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=simba0102&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=simba0102&layout=compact&theme=highcontrast&&hide=css,objective-c"
+    alt="simba0102"
+  />
+</p>
+<p>
+      <img src="https://github-readme-stats.vercel.app/api?username=simba0102&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&border_radius=20\&rank_icon=github" alt="simba0102"/>
 </p>
 </div>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=simba0102"
+      src="https://github-profile-trophy.vercel.app/?username=simba0102&rank=SECRET,S,AAA,A,A,A,B,B,B,B,B,C,C,C,C,C&theme=onestar&no-frame=true&no-bg=false"
       alt="simba0102"
   /></a>
 </p>
