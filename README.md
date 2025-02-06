@@ -18,29 +18,32 @@
   />
 </p>
 
-
 </br>
 
-________________________________________________________
+---
 
+<div>
+  <p>
+    <img
+      align="left"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=simba0102&show_icons=true&locale=en&layout=compact&"
+      alt="simba0102"
+    />
+  </p>
 
-<table align="center">
-  <tr>
-    <td>
+<p>
       <img src="https://github-readme-stats.vercel.app/api?username=simba0102&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&bg_color=FFFFFF&border_radius=20&hide_title=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=simba0102&theme=flat&margin-w=18&margin-h=18&column=6&border_radius=15" />
+</p>
+</div>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"
+    ><img
+      src="https://github-profile-trophy.vercel.app/?username=simba0102"
+      alt="simba0102"
+  /></a>
 </p>
 
-
-</br>
-
-
-________________________________________________________
+---
 
 </br>
 
@@ -57,7 +60,8 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/Rust-%23DEA584.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Solidity-%232E2E2E.svg?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" style="margin: 5px; height: 30px;">
 
-  </br></br>
+</br></br>
+
   <h2>Backend</h2>
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white" alt="Express.js" style="margin: 5px; height: 30px;">
@@ -69,7 +73,8 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=flat-square&logo=flask&logoColor=white" alt="Flask" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/JavaSpring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white" alt="JavaSpring" style="margin: 5px; height: 30px;">
 
-  </br></br>
+</br></br>
+
   <h2 align="center">Frontend</h2>
   <img src="https://img.shields.io/badge/React.js-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A" alt="React.js" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" style="margin: 5px; height: 30px;">
@@ -80,7 +85,8 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/ShadCN-%23000000.svg?style=flat-square&logo=shadcn&logoColor=white" alt="ShadCN" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="margin: 5px; height: 30px;">
 
-  </br></br>
+</br></br>
+
   <h2>Mobile Development</h2>
   <img src="https://img.shields.io/badge/Android-%2333DE81.svg?style=flat-square&logo=android&logoColor=white" alt="Android" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" style="margin: 5px; height: 30px;">
@@ -90,7 +96,8 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat-square&logo=react&logoColor=%2320232A" alt="React Native" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/KMP-%23685DDE.svg?style=flat-square&logo=kotlin&logoColor=white" alt="KMP" style="margin: 5px; height: 30px;">
 
-  </br></br>
+</br></br>
+
   <h2>Geographic Information System(GIS)</h2>
   <img src="https://img.shields.io/badge/ArcGIS-%23FF9A00.svg?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/QGIS-%2364A10E.svg?style=flat-square&logo=qgis&logoColor=white" alt="QGIS" style="margin: 5px; height: 30px;">
@@ -110,7 +117,8 @@ ________________________________________________________
   <img src="https://img.shields.io/badge/ArcMap-%230F8A70.svg?style=flat-square&logo=arcgis&logoColor=white" alt="ArcMap" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/ArcGIS%20online-%23339933.svg?style=flat-square&logo=arcgis&logoColor=white" alt="ArcGIS online" style="margin: 5px; height: 30px;">
 
-  </br></br>
+</br></br>
+
   <h2>Database Management</h2>
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin: 5px; height: 30px;">
   <img src="https://img.shields.io/badge/PostgreSQL-%234895BF.svg?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" style="margin: 5px; height: 30px;">
@@ -123,7 +131,8 @@ ________________________________________________________
 
 </br>
 
-________________________________________________________
+---
+
 </br>
 
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect With Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
