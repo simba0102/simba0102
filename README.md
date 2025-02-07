@@ -31,7 +31,7 @@
   />
 </p>
 <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=simba0102&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&border_radius=20\&rank_icon=github" alt="simba0102"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=simba0102&theme=highcontrast&show_icons=true&count_private=true&include_all_commits=true&title_color=2D88FF&text_color=4A5568&icon_color=00A676&border_radius=20\" alt="simba0102"/>
 </p>
 </div>
 <p align="left">
